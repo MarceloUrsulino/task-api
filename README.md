@@ -59,6 +59,6 @@ POST /tasks
 | 422 | Campo obrigatório não preenchido | "O campo precisa ser preenchido." |
 | 422 | Usuário não encontrado ao criar tarefa | "Usuário não encontrado." |
 
-## Autor
+
 
 Marcelo Ursulino
